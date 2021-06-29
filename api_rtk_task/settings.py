@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-cviiu742l*j_*k=z)a^6&52))@g^m8y2)b@4nq$!%$*k6to)+w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["api-rtk-task-210625.herokuapp.com", "127.0.0.1"]
+ALLOWED_HOSTS = ["api-rtk-task-210625.herokuapp.com", "127.0.0.1", "localhost:3000"]
 
 # Application definition
 
